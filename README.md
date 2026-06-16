@@ -1,4 +1,4 @@
-Fetal health dataset
+Ultrasound fetus dataset
 https://drive.google.com/file/d/1FLVlsF5YtvkvKRHSUJtryMMjCS_SroRd/view?usp=sharing
 
 
